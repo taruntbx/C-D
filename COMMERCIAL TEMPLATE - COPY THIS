@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- Facebook sharing information tags -->
+    <meta property="og:title" content="{{Subject}}" />
+
+    <title>{{Subject}}</title>
+</head>
+
+<body bgcolor="#FAFAFA" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 100% !important; width: 100% !important; background-color: #FAFAFA; margin: 0; padding: 0;">
+<style type="text/css">#outlook a {
+              padding: 0;
+        
+          }
+          .body{
+              width: 100% !important;
+              -webkit-text-size-adjust: 100%;
+              -ms-text-size-adjust: 100%;
+              margin: 0;
+              padding: 0;
+          }
+          .ExternalClass {
+              width:100%;
+          }
+          .ExternalClass,
+          .ExternalClass p,
+          .ExternalClass span,
+          .ExternalClass font,
+          .ExternalClass td,
+          .ExternalClass div {
+              line-height: 100%;
+          }
+          img {
+              outline: none;
+              text-decoration: none;
+              -ms-interpolation-mode: bicubic;
+          }
+          a img {
+              border: none;
+          }
+          p {
+              margin: 1em 0;
+          }
+          table td {
+              border-collapse: collapse;
+          }
+          /* hide unsubscribe from forwards*/
+          blockquote .original-only, .WordSection1 .original-only {
+            display: none !important;
+          }
+
+          @media only screen and (max-width: 480px){
+            body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms from changing default text sizes */
+            body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+
+            #bodyCell{padding:10px !important;}
+
+            #templateContainer{
+              max-width:600px !important;
+              width:100% !important;
+            }
+
+            h1{
+              font-size:24px !important;
+              line-height:100% !important;
+            }
+
+            h2{
+              font-size:20px !important;
+              line-height:100% !important;
+            }
+
+            h3{
+              font-size:18px !important;
+              line-height:100% !important;
+            }
+
+            h4{
+              font-size:16px !important;
+              line-height:100% !important;
+            }
+
+
+            #templatePreheader{display:none !important;} /* Hide the template preheader to save space */
+
+            #headerImage{
+              height:auto !important;
+              max-width:600px !important;
+              width:100% !important;
+            }
+
+            .headerContent{
+              font-size:20px !important;
+              line-height:125% !important;
+            }
+
+            #bodyImage{
+              height:auto !important;
+              max-width:560px !important;
+              width:100% !important;
+            }
+
+            .bodyContent{
+              font-size:18px !important;
+              line-height:125% !important;
+            }
+
+            .footerContent{
+              font-size:14px !important;
+              line-height:115% !important;
+            }
+
+            .footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+          }
+</style>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="bodyTable" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FAFAFA; border-collapse: collapse !important; height: 100% !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; width: 100% !important" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" id="bodyCell" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: 100% !important; width: 100% !important; border-top-width: 4px; border-top-color: #dddddd; border-top-style: solid; margin: 0; padding: 20px;" valign="top"><!-- BEGIN TEMPLATE // -->
+			<table border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important; width: 600px; border: 1px solid #dddddd;">
+				<tbody>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN PREHEADER // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr style="">
+									<td align="left" class="preheaderContent" pardot-data="link-underline:none;" pardot-region="preheader_content00" style="text-size-adjust: 100%; font-family: Helvetica; font-size: 10px; line-height: 12.5px; text-align: left; padding: 10px 20px; background: rgb(5, 28, 44); color: rgb(255, 255, 255);" valign="top">
+									<p><span style="font-size:12px;"><font face="Arial, Helvetica, sans-serif"><span style="font-family:Arial,Helvetica,sans-serif;">Title</span></font></span><span style="display: none;">&nbsp;</span></p>
+									</td>
+									<td align="left" class="preheaderContent" pardot-data="link-color:#56B093;" pardot-region="preheader_content01" style="text-size-adjust: 100%; color: rgb(255, 255, 255); font-family: Helvetica; font-size: 10px; line-height: 12.5px; text-align: left; padding: 10px 20px 10px 0px; background: rgb(5, 28, 44);" valign="top" width="180">Email not displaying correctly?<br>
+									<a href="{{View_Online}}" style="text-size-adjust: 100%; color: rgb(86, 176, 147); font-weight: normal; text-decoration: underline;" target="_blank">View it in your browser</a>.</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END PREHEADER --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN HEADER // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateHeader" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+							</tbody>
+						</table>
+						<!-- // END HEADER --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN BODY // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateBody" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr pardot-repeatable="" style="">
+									<td align="left" class="bodyContent" pardot-data="link-color:#56B093;" pardot-region="body_content00" style="text-size-adjust: 100%; color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 21px; text-align: left; padding: 20px; background: rgb(5, 28, 44);" valign="top"><p style="line-height: 1.38; margin-bottom: 13px;"><span style="font-size:16px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-variant: normal; white-space: pre-wrap;"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><img alt="" border="0" height="150" src="https://go.charlesanddean.com/l/905082/2023-10-30/6lcrkb/905082/1698684033FLbBn2RQ/Empowering_a_local_business_to_succeed___1_.png" style="width: 600px; height: 150px; border-width: 0px; border-style: solid;" width="600"></span></span></span></span><br>
+<br>
+​​​​​​Text here</span></span><br>
+<br>
+<span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; white-space-collapse: preserve;">Why not let us fund your dream car next? Call us on </span><strong style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><span style="color:#56b093;">01780 763836</span></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; white-space-collapse: preserve;">, or get in touch below.</span></p>
+
+<p style="line-height:1.38">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate !important;" width="300">
+				<tbody>
+					<tr>
+						<td style="background-color:#56B093;color:#FFFFFF;font-size:14px;padding:10px 10px;border-radius:3px;font-family:Arial, Helvetica, sans-serif;text-align:center;border:solid 1px #FFFFFF"><span style="font-size:16px;"><span style="font-family:Arial,Helvetica,sans-serif;"><strong><a href="https://www.charlesanddean.com/business-finance" style="text-decoration:none;color:#FFFFFF;">Find Out More</a></strong></span></span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="line-height: 1.38; text-align: center;">&nbsp;</p>
+
+<p style="line-height: 1.38; text-align: center;"><span style="font-size:16px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-variant: normal; white-space: pre-wrap;"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kind regards,</span></span></span></span><br>
+<br>
+<b>Charles <span style="color:#56b093;">&amp;</span> Dean</b></span></span></p>
+</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END BODY --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN FOOTER // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateFooter" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr>
+								</tr>
+								<tr style="">
+									<td align="left" class="footerContent" pardot-data="link-color:#56B093;" pardot-region="footer_content01" style="text-size-adjust: 100%; color: rgb(255, 255, 255); font-family: Helvetica; font-size: 10px; line-height: 15px; text-align: left; padding: 0px 20px 20px; background: rgb(5, 28, 44);" valign="top"><div style="text-align: center;"><br>
+<a href="https://www.charlesanddean.com/business-finance"><img alt="" border="0" src="https://go.charlesanddean.com/l/905082/2023-03-15/6kn4tx/905082/1678881065bGKuDuMu/Logo_for_Emails__200x60__.png" style="border-width: 0px; border-style: solid;"></a>
+<p>Charles and Dean Finance is a trading name of Charles and Dean Ltd, who are a member of the National Association of Commercial Finance Brokers and is authorised and regulated by the Financial Conduct Authority, under Firm Reference Number 653592. Charles &amp; Dean are a credit broker and not a lender. We are remunerated by way of an introductory payment, payable by the funder. The nature of this payment and the effect on the interest rate you might pay will vary from funder to funder and is dependent upon a number of factors including (but not exclusive to) asset type, product chosen and customer circumstances.&nbsp;Registered address: 2 The Granary, Copthill Farm Enterprises, Deeping Road, Uffington, Stamford, PE9 4TD. Registered in England &amp; Wales.</p>
+<br>
+<em><span style="color:#ffffff;">Copyright © Charles</span> <span style="color:#56b093;">&amp;</span> <span style="color:#ffffff;">Dean all rights reserved.</span></em></div>
+</td>
+								</tr>
+								<tr style="">
+									<td align="left" class="footerContent original-only" pardot-data="link-color:#56B093;" pardot-region="footer_content02" style="text-size-adjust: 100%; color: rgb(255, 255, 255); font-family: Helvetica; font-size: 10px; line-height: 15px; text-align: left; padding: 0px 20px 20px; background: rgb(5, 28, 44);" valign="top">
+									<div style="text-align: center;"><a href="{{Unsubscribe}}" style="text-size-adjust: 100%; color: rgb(86, 176, 147); font-weight: normal; text-decoration: underline;">unsubscribe from all emails</a>&nbsp;&nbsp;&nbsp;<a href="{{EmailPreferenceCenter}}" style="text-size-adjust: 100%; color: rgb(86, 176, 147); font-weight: normal; text-decoration: underline;">update subscription preferences</a>&nbsp;</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END FOOTER --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- // END TEMPLATE --></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<!--
+          This email was originally designed by the wonderful folks at MailChimp and remixed by Pardot.
+          It is licensed under CC BY-SA 3.0
+        -->
+</body>
+</html>
